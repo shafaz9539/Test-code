@@ -19,5 +19,5 @@ elif choice == 4:
     print(result)
 
 else:
-    print("Invalid Choice")
+    print("Invalid ")
 
